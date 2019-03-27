@@ -1,4 +1,6 @@
 import sys
 import os
 
-print("HOLA...")
+nombre = input("Ingrese su nombre: ")
+
+print("Su nombre es ", nombre)
